@@ -4,17 +4,10 @@
   <project name="tripLr/android_device_google_walleye" path="device/google/walleye" remote="github" revision="hentaios-11" />
   <project name="tripLr/android_device_google_taimen" path="device/google/taimen" remote="github" revision="hentaios-11" />
   <!-- Device common -->
-<<<<<<< HEAD
   <project name="tripLr/android_packages_apps_ElmyraService" path="android/packages/apps/ElmyraService" remote="github" revision="avc" />
   <project name="tripLr/android_device_google_wahoo" path="device/google/wahoo" remote="github" revision="hentaios-11" />
   <!--Kernel-->
   <project name="tripLr/android_kernel_google_xenial" path="kernel/google/xenial" remote="github" revision="hentaios-11" />
-=======
-  <project name="PixelDevTeam/android_packages_apps_ElmyraService" path="android/packages/apps/ElmyraService" remote="github" revision="rvc" />
-  <project name="PixelDevTeam/android_device_google_wahoo" path="device/google/wahoo" remote="github" revision="hentaios-11" />
-  <!--Kernel-->
-  <project name="PixelDevTeam/android_kernel_google_xenial" path="kernel/google/xenial" remote="github" revision="android-11" />
->>>>>>> eca868404149ab3490e009b655764f2e983b7a4e
   <!-- Vendor -->
   <project name="tripLr/AndroidVendorGoogle" path="vendor/google" remote="github" revision="hentaios-11" />
   <!-- Propritary Vendor Chipset  -->
