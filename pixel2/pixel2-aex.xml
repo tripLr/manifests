@@ -1,15 +1,17 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <manifest>
   <!-- Device -->
-  <project name="tripLr/android_device_google_walleye" path="device/google/walleye" remote="github" branch="hentaios-11" />
-  <project name="tripLr/android_device_google_taimen" path="device/google/taimen" remote="github" branch="hentaios-11" />
+     <project name="tripLr/android_device_google_walleye" 	path="device/google/walleye" 				remote="github" branch="hentaios-11" />
+     <project name="tripLr/android_device_google_taimen" 	path="device/google/taimen" 				remote="github" branch="hentaios-11" />
   <!-- Device common -->
-  <project name="tripLr/android_packages_apps_ElmyraService" path="android/packages/apps/ElmyraService" remote="github" branch="avc" />
-  <project name="tripLr/android_device_google_wahoo" path="device/google/wahoo" remote="github" branch="hentaios-11" />
+     <project name="tripLr/android_packages_apps_ElmyraService" path="android/packages/apps/ElmyraService" 		remote="github" branch="avc" />
+     <project name="tripLr/android_device_google_wahoo" 	path="device/google/wahoo" 				remote="github" branch="hentaios-11" />
   <!--Kernel-->
-  <project name="tripLr/android_kernel_google_xenial" path="kernel/google/xenial" remote="github" branch="hentaios-11" />
+     <project name="tripLr/android_kernel_google_xenial" 	path="kernel/google/xenial" 				remote="github" branch="hentaios-11" />
   <!-- Vendor -->
-  <project name="tripLr/AndroidVendorGoogle" path="vendor/google" remote="github" branch="hentaios-11" />
+     <project name="tripLr/AndroidVendorGoogle" 		path="vendor/google" 					remote="github" branch="hentaios-11" />
   <!-- Propritary Vendor Chipset  -->
-  <project name="tripLr/hardware_qcom_msm8998" path="vendor/hardware_qcom_msm8998" remote="github" branch="android-11.0.0_r20" />
+     <project name="tripLr/hardware_qcom_msm8998" 		path="vendor/hardware_qcom_msm8998" 			remote="github" branch="android-11.0.0_r20" />
+  <!-- Compiler -->
+     <project name="arter97/arm64-gcc" 				path="prebuilts/gcc/linux-x86/aarch64/arm64-gcc" 	remote="github" branch="master" />
 </manifest>

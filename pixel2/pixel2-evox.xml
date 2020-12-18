@@ -1,4 +1,5 @@
 <manifest>
+<!-- from @Giblyat gibranmather -->
 <project revision="evo" name="gibranmather/android_device_google_taimen" path="device/google/taimen" remote="github"/>
 <project revision="evo" name="gibranmather/android_device_google_muskie" path="device/google/muskie" remote="github"/>
 <project revision="evo" name="gibranmather/android_device_google_wahoo" path="device/google/wahoo" remote="github"/>
