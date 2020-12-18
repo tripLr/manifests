@@ -1,0 +1,10 @@
+<manifest>
+<project revision="evo" name="gibranmather/android_device_google_taimen" path="device/google/taimen" remote="github"/>
+<project revision="evo" name="gibranmather/android_device_google_muskie" path="device/google/muskie" remote="github"/>
+<project revision="evo" name="gibranmather/android_device_google_wahoo" path="device/google/wahoo" remote="github"/>
+<project revision="android-11" name="PixelDevTeam/android_kernel_google_xenial" path="kernel/google/xenial" remote="github"/>
+<project revision="rvc" name="gibranmather/android_vendor_google" path="vendor/google" remote="github"/>
+<project revision="rvc" name="ProtonAOSP/android_packages_apps_ElmyraService" path="packages/apps/ElmyraService" remote="github"/>
+<project revision="master" name="arter97/arm64-gcc" path="prebuilts/gcc/linux-x86/aarch64/arm64-gcc" remote="github"/>
+<project revision="main" name="gibranmather/keygen" path="keygen" remote="github"/>
+</manifest>
