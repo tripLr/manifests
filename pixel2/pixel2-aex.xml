@@ -12,4 +12,4 @@
   <project name="tripLr/AndroidVendorGoogle" path="vendor/google" remote="github" revision="hentaios-11" />
   <!-- Propritary Vendor Chipset  -->
   <project name="tripLr/hardware_qcom_msm8998" path="vendor/hardware_qcom_msm8998" remote="github" revision="android-11.0.0_r20" />
-  </manifest>
+</manifest>
