@@ -1,0 +1,11 @@
+<manifest>
+<!-- from Eamo5 -->
+<remove-project name="platform_vendor_codeaurora_telephony"/>
+<remove-project name="platform_hardware_qcom_data_ipacfg-mgr"/>
+<project branch="pie" name="Eamo5/platform_hardware_qcom_data_ipacfg-mgr" path="hardware/qcom/data/ipacfg-mgr" remote="github"/>
+<project branch="pie" name="Eamo5/platform_vendor_codeaurora_telephony" path="vendor/codeaurora/telephony" remote="github"/>
+<project branch="aosip-9.0" name="Eamo5/android_device_google_taimen" path="device/google/taimen" remote="github"/>
+<project branch="aosip-9.0" name="Eamo5/android_device_google_wahoo" path="device/google/wahoo" remote="github"/>
+<project branch="lineage-16.0" name="Eamo5/android_kernel_google_wahoo" path="kernel/google/wahoo" remote="github"/>
+<project branch="p9x" name="Eamo5/proprietary_vendor_google" path="vendor/google" remote="github"/>
+</manifest>
