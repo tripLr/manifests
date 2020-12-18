@@ -1,16 +1,15 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <manifest>
-  <!-- device -->
-  <project name="LineageOS/android_hardware_samsung_slsi_exynos" path="hardware/samsung_slsi/exynos" remote="github" revision="lineage-17.1" />
-  <project name="LineageOS/android_hardware_samsung_slsi_exynos5" path="hardware/samsung_slsi/exynos5" remote="github" revision="lineage-17.1" />
-  <project name="LineageOS/android_hardware_samsung_slsi_openmax" path="hardware/samsung_slsi/openmax" remote="github" revision="lineage-17.1" />
-  <!-- hardware common -->
-  <project name="universal5433/android_device_samsung_gts2-common" path="device/samsung/gts2-common" remote="github" revision="havoc-ten" />
-  <project name="universal5433/android_device_samsung_gts28wifi" path="device/samsung/gts28wifi" remote="github" revision="havoc-ten" />
-  <project name="universal5433/android_hardware_samsung" path="hardware/samsung" remote="github" revision="havoc-ten" />
-  <project name="universal5433/android_hardware_samsung_slsi_exynos5433" path="hardware/samsung_slsi/exynos5433" remote="github" revision="lineage-17.1" />
+  <!-- Device -->
+  <project name="PixelDevTeam/android_device_google_walleye" path="device/google/walleye" remote="github" revision="hentaios-11" />
+  <project name="PixelDevTeam/android_device_google_taimen" path="device/google/taimen" remote="github" revision="hentaios-11" />
+  <!-- Device common -->
+  <project name="PixelDevTeam/android_packages_apps_ElmyraService" path="android/packages/apps/ElmyraService" remote="github" revision="hentaios-11" />
+  <project name="PixelDevTeam/android_device_google_wahoo" path="device/google/wahoo" remote="github" revision="hentaios-11" />
   <!--Kernel-->
-  <project name="universal5433/android_kernel_samsung_universal5433" path="kernel/samsung/universal5433" remote="github" revision="lineage-17.1" />
-  <!--vendor-->
-  <project name="universal5433/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-17.1" />
-</manifest>
+  <project name="PixelDevTeam/android_kernel_google_xenial" path="kernel/google/xenial" remote="github" revision="hentaios-11" />
+  <!-- Vendor -->
+  <project name="PixelDevTeam/AndroidVendorGoogle" path="vendor/google" remote="github" revision="hentaios-11" />
+  <!-- Propritary Vendor Chipset  -->
+  <project name="PixelDevTeam/hardware_qcom_msm8998" path="vendor/hardware_qcom_msm8998" remote="github" revision="android-11.0.0_r20" />
+  </manifest>
