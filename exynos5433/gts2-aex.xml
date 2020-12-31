@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!--Device tabs2 exynos common-->
+  <project name="open-roms/android_device_samsung_gts2-common" path="device/samsung/gts2-common" remote="github" revision="lineage-16.0" />
+  <!--Device tabs2 exynos-->
+  <project name="open-roms/android_device_samsung_gts210ltexx" path="device/samsung/gts210ltexx" remote="github" revision="lineage-16.0" />
+  <project name="open-roms/android_device_samsung_gts210wifi" path="device/samsung/gts210wifi" remote="github" revision="lineage-16.0" />
+  <project name="open-roms/android_device_samsung_gts28wifi" path="device/samsung/gts28wifi" remote="github" revision="lineage-16.0" />
+  <project name="open-roms/android_device_samsung_gts28ltexx" path="device/samsung/gts28ltexx" remote="github" revision="lineage-16.0" />
+ <!-- Kernel -->
+  <project name="open-roms/android_kernel_samsung_exynos5433" path="kernel/samsung/exynos5433" remote="github" revision="lineage-16.0" />
+  <!-- blobs -->
+  <project name="open-roms/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-16.0" />
+  <!--Hardware-->
+  <project name="TeamSexynos/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-17.1" />
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="github" revision="lineage-16.0" />
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos5" path="hardware/samsung_slsi-cm/exynos5" remote="github" revision="lineage-16.0" />
+  <project name="TeamSexynos/android_hardware_samsung_slsi-cm_exynos5433" path="hardware/samsung_slsi-cm/exynos5433" remote="github" revision="lineage-16.0" />
+  <project name="TeamSexynos/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="github" revision="lineage-16.0" />
+  <!--Custom Forks-->
+</manifest>
